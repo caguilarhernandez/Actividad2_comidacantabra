@@ -1,37 +1,21 @@
 # Actividad2_comidacantabra
 ## Autores:
-### Carlos Aguilar Hernández
-### Julián Sainz Rodríguez
+### Carlos Aguilar Hernández ** Propietario **
+### Julián Sainz Rodríguez ** Colaborador **
 
+** Temática del sitio web: **
+La temática de nuestro sitio va a ser de la comida típica de Cantabria.
 
+** Descripción del sitio web: **
+En nuestro sitio web vamos a describir la elavoración de cada plato, los ingredientes necesarios y el precio de cada uno.
+Incluiremos también un top 3 de la mejor comida en cantabria.
 
-Esto es un párrafo con un **algunas palabras en negrita,**  
-otras _en cursiva_
+** Estructura y diseño del sitio web: **
+Utilizaremos un tema de Jekyll, que va a ser el siguiente: https://github.com/link9596/jekyll-theme-Hydrogen
 
-Y otras finalmente ***en otro párrafo pero en negrita cursiva.***
+** Planificación del sitio web: **
+Carlos va a ser el propietario, que va a almacenar el repositorio y el que va a organizar el trabajo.  
+Dentro de la organización del trabajo, Carlos hará los _includes, _sass y assets/css, assets/img, _Layouts.
+Julián va a ser el colaborador, que dará estructura al sitio web y al README.md.
+Dentro de la organización del trabajo, Julián hará la raíz del ditio, _posts, _pages, _comida, _data.
 
-## Listas ordenadas 
-
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3  
-3.2 Elemento 3.2  
-3.3 Elemento 3.3  
-3.4 Elemento 3.4
-4. Elemento 4
-
-## Listas desordenadas
-
-* Elemento 1  
-* Elemento 2  
-
-[Enlace Externo](https://lumigv.github.io/iaw_202324/unidad1/taller2.html)
-
-[Otro fichero markdown](Otro%20fichero%20markdown.md)
-
-![Markdown](img/markdown.png "Imagen de Markdown")
-
-|Objeto|Precio|Cantidad|
-|----:|:----|:----:|
-|Destornillador|6,95€|1|
-|Cinta adhesiva|2,66€|3|
