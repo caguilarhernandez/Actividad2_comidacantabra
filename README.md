@@ -1,7 +1,8 @@
 # Actividad2_comidacantabra
 ## Autores:
 ### Carlos Aguilar Hernández
-### Julián Sainz Rodríguez  
+### Julián Sainz Rodríguez
+
 
 
 Esto es un párrafo con un **algunas palabras en negrita,**  
