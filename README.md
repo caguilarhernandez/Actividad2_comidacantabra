@@ -18,5 +18,5 @@ Carlos va a ser el propietario, que va a almacenar el repositorio y el que va a 
 Dentro de la organización del trabajo, Carlos hará los _includes, _sass y assets/css, assets/img, _Layouts.  
 
 Julián va a ser el colaborador, que dará estructura al sitio web y al README.md.  
-Dentro de la organización del trabajo, Julián hará la raíz del ditio, _posts, _pages, _comida, _data.
+Dentro de la organización del trabajo, Julián hará la raíz del sitio, _posts, _pages, _comida, _data.
 
